@@ -1,0 +1,7 @@
+program:
+  - op: load
+    arg: 684
+  - op: read
+    arg: 783
+  - op: write
+  - op: rol
